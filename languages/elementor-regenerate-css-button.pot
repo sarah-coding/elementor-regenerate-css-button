@@ -1,0 +1,43 @@
+# Copyright (C) 2020 SarahCoding
+# This file is distributed under the same license as the Elementor Regenerate CSS Button plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Regenerate CSS Button 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/sarah-coding/elementor-regenerate-css-button\n"
+"Last-Translator: SarahCoding <contact.sarahcoding@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-09-06T18:19:47+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: elementor-regenerate-css-button\n"
+
+#. Plugin Name of the plugin
+msgid "Elementor Regenerate CSS Button"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "#"
+msgstr ""
+
+#. Description of the plugin
+msgid "Link the \"Regenerate CSS\" button into the admin menubar."
+msgstr ""
+
+#. Author of the plugin
+msgid "SarahCoding"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://sarahcoding.com"
+msgstr ""
+
+#: elementor-regenerate-css-button.php:48
+msgid "Regenerate Elementor CSS"
+msgstr ""
+
+#: elementor-regenerate-css-button.php:63
+msgid "Are you sure? This action cannot be undone!"
+msgstr ""
